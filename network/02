@@ -1,0 +1,1 @@
+ip link show eno1 # display ethernet network interface characteristics
