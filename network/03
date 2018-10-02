@@ -1,0 +1,1 @@
+ip link show wlo1 | grep ether | cut -c16-33 # display wifi mac address
